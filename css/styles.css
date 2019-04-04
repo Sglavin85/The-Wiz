@@ -45,6 +45,26 @@ nav a {
     background-color: rgb(119, 150, 245);
 }
 
+.flexonem {
+    width: 30%;
+    margin: 1em;
+    text-align: center;
+    background-color: azure;
+
+}
+
+.flexonem p {
+    text-align: left;
+    text-indent: 15px;
+}
+
+.flexonem img {
+    width: 100%;
+    margin: auto, 0;
+    height: 287px;
+    overflow: hidden;
+}
+
 main {
     flex: 2;
     margin: 1em;
